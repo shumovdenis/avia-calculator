@@ -1,0 +1,82 @@
+﻿{
+  "tickets": [
+    {
+      "origin": "STARTLOCATION_0",
+      "origin_name": "Start location 0",
+      "destination": "ENDLOCATION_0",
+      "destination_name": "End location 0",
+      "departure_date": "01.01.20",
+      "departure_time": "00:00",
+      "arrival_date": "01.01.20",
+      "arrival_time": "01:00",
+      "carrier": "CARRIER_0",
+      "stops": 3,
+      "price": 1
+    },
+    {
+      "origin": "STARTLOCATION_0",
+      "origin_name": "Start location 0",
+      "destination": "ENDLOCATION_0",
+      "destination_name": "End location 0",
+      "departure_date": "01.01.20",
+      "departure_time": "00:00",
+      "arrival_date": "01.01.20",
+      "arrival_time": "01:00",
+      "carrier": "CARRIER_1",
+      "stops": 3,
+      "price": 2
+    },
+    {
+      "origin": "STARTLOCATION_1",
+      "origin_name": "Start location 1",
+      "destination": "ENDLOCATION_1",
+      "destination_name": "End location 1",
+      "departure_date": "01.01.20",
+      "departure_time": "00:00",
+      "arrival_date": "01.01.20",
+      "arrival_time": "01:00",
+      "carrier": "CARRIER_2",
+      "stops": 3,
+      "price": 6
+    },
+    {
+      "origin": "STARTLOCATION_2",
+      "origin_name": "Start location 2",
+      "destination": "ENDLOCATION_2",
+      "destination_name": "End location 2",
+      "departure_date": "01.01.20",
+      "departure_time": "00:00",
+      "arrival_date": "01.01.20",
+      "arrival_time": "02:00",
+      "carrier": "CARRIER_0",
+      "stops": 3,
+      "price": 1
+    },
+    {
+      "origin": "STARTLOCATION_2",
+      "origin_name": "Start location 2",
+      "destination": "ENDLOCATION_2",
+      "destination_name": "End location 0",
+      "departure_date": "01.01.20",
+      "departure_time": "00:00",
+      "arrival_date": "01.01.20",
+      "arrival_time": "02:00",
+      "carrier": "CARRIER_1",
+      "stops": 3,
+      "price": 2
+    },
+    {
+      "origin": "STARTLOCATION_2",
+      "origin_name": "Start location 2",
+      "destination": "ENDLOCATION_2",
+      "destination_name": "End location 2",
+      "departure_date": "01.01.20",
+      "departure_time": "00:00",
+      "arrival_date": "01.01.20",
+      "arrival_time": "02:00",
+      "carrier": "CARRIER_2",
+      "stops": 3,
+      "price": 6
+    }
+  ]
+}
